@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\projects\games\sdl2\black-art-book\08-recreate-breakout-using-game-engine\08-recreate-breakout-using-game-engine\main.cpp(10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\projects\games\sdl2\black-art-book\08-recreate-breakout-using-game-engine\08-recreate-breakout-using-game-engine\main.cpp(11): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  08-recreate-breakout-using-game-engine.vcxproj -> C:\Projects\Games\SDL2\black-art-book\08-recreate-breakout-using-game-engine\Debug\08-recreate-breakout-using-game-engine.exe
